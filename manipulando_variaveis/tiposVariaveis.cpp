@@ -14,11 +14,11 @@ int main()
 
     cout << "O valor da varinate pFlutuante e:" << pFlutuante << endl;
 
-    cout<< "Memoria da variante variant: " << sizeof(variant)<<endl;
+    cout<< "Memoria da variante variant: " << sizeof(variant) << "bytes"<<endl;
 
-    cout<< "Memoria da variante c: " << sizeof(c)<<endl;
+    cout<< "Memoria da variante c: " << sizeof(c)<< "bytes"<<endl;
 
-    cout<< "Memoria da variante pFlutuante: " << sizeof(pFlutuante)<<endl;
+    cout<< "Memoria da variante pFlutuante: " << sizeof(pFlutuante)<< "bytes"<<endl;
 
 
     return 0;
